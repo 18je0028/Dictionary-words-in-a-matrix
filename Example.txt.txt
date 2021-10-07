@@ -1,0 +1,73 @@
+
+Enter the matrix puzzle
+a p e o
+p r t l
+i m n l
+b u l l
+58
+
+
+printing words
+paper
+part
+prep
+erp
+pet
+per
+par
+ppm
+pre
+rel
+rep
+era
+rim
+epa
+rip
+api
+app
+apr
+art
+apt
+rpm
+arm
+are
+rt
+pm
+pp
+pr
+pt
+ra
+re
+rp
+ri
+ap
+rn
+rm
+pe
+pa
+pi
+ot
+ol
+oe
+ar
+el
+et
+er
+ep
+u
+t
+a
+b
+e
+i
+l
+m
+n
+r
+o
+p
+enter 0 for exit
+0
+
+Process returned 0 (0x0)   execution time : 94.417 s
+Press any key to continue.
